@@ -17,8 +17,10 @@ This project generate a short Vietnamese description (caption) for a daily pictu
 
 ## 📷 Example
 
-- Input image: a cat sitting on a table  
-- Output caption: `"A cat sitting on a wooden table"`
+- Input image
+- Output caption
+<img width="387" height="602" alt="image" src="https://github.com/user-attachments/assets/b9fbeba9-dc8c-4c3e-8a2c-f91f842a7a31" />
+
 
 ## 📄 License
 
